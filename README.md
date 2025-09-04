@@ -1,3 +1,10 @@
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/053dbf47-2d4c-473e-b85b-c99c70d783e3" />
+" width="420" />
+  <img src="https://github.com/user-attachments/assets/8f677c62-449a-4d4f-bc55-940c2a2fa10f" width="350" /> 
+</p>
+
 # The-Mini
 The smallest - yet still fully functional - 3D printer I could design. 
 
