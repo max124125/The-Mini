@@ -7,9 +7,8 @@
 
 # The-Mini
 The smallest - yet still fully functional - 3D printer I could design.  
-As a design constraint I wanted the printer to fully fit into a small 3x4x5 inch Vaultz lock box I had on hand. 
 
 Design goals:  
 -Many smaller printers of this size used ROM drive steppers. I have oppted to exclude these as they have very limited accuracy (20steps/mm) compared to traditional Nema 14 based printers (80steps/mm).  
 -An additional goal is for this printer to be able to achieve the same speed/accel of a default ender 3 (500mm/s2 and 50mm/s).  
--The entire printer (excluding filament and power supply) needs to fit into the Vaultz lock box I have.   
+-The entire printer (excluding filament and power supply) needs to fit into the 3x4x5 inch Vaultz lockbox I have.   
