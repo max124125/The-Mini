@@ -6,7 +6,7 @@
 </p>
 
 # The-Mini
-The smallest - yet still fully functional - 3D printer I could design.  
+The smallest - yet still fully functional - 3D printer I could design.    
 Update: Very Close to functional. With school considered, the completion date is estimated to be end of October. 
 
 Design goals:  
