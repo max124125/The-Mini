@@ -7,6 +7,7 @@
 
 # The-Mini
 The smallest - yet still fully functional - 3D printer I could design.  
+Update: Very Close to functional. With school considered, the completion date is estimated to be end of October. 
 
 Design goals:  
 -Many smaller printers of this size used ROM drive steppers. I have oppted to exclude these as they have very limited accuracy (20steps/mm) compared to traditional Nema 14 based printers (80steps/mm).  
