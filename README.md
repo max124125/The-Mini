@@ -1,7 +1,7 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/053dbf47-2d4c-473e-b85b-c99c70d783e3" width="350" />
-  <img src="https://github.com/user-attachments/assets/052ca413-d359-4bd2-86f1-8dcd0c32871f" width="348"/>
+  <img src="https://github.com/user-attachments/assets/052ca413-d359-4bd2-86f1-8dcd0c32871f" width="346"/>
 
 </p>
 
