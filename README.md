@@ -1,10 +1,13 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/053dbf47-2d4c-473e-b85b-c99c70d783e3" width="350" />
+  <img width="386" height="417" alt="image" src="https://github.com/user-attachments/assets/052ca413-d359-4bd2-86f1-8dcd0c32871f" />
+
 </p>
 
 # The-Mini
-The smallest - yet still fully functional - 3D printer I could design. 
+The smallest - yet still fully functional - 3D printer I could design.  
+As a design constraint I wanted the printer to fully fit into a small 3x4x5 inch Vaultz lock box I had on hand. 
 
 Design goals:  
 -Many smaller printers of this size used ROM drive steppers. I have oppted to exclude these as they have very limited accuracy (20steps/mm) compared to traditional Nema 14 based printers (80steps/mm).  
