@@ -31,8 +31,8 @@ Testing Proofs:
 
 Issues/Untested:  
 -SSD1306 screen not tested  
--Encoder Not tested
--Hotend not tested (but will work)
--5v power supply not tested
--Extruder
+-Encoder Not tested  
+-Hotend not tested (but will work)  
+-5v power supply not tested  
+-Extruder  
 
