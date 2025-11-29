@@ -22,10 +22,11 @@ Old SKR board on the left (raspberry pi and 5v supply fit overtop of the board),
 
 
 
+SOFTWARE Testing
 Software Proofs:
 -Pi zero runs klipper-mainsail without issue.
--X, Y , Z axis all move and endstops work
--Z axis needed 0.3amp to run reliably and not skip steps, however, would overheat to +50C in 30 seconds of running. Current solution has been to diable stepper whenever it is not moving (and due to the lead screw it wont move) this has stopped overheating, as the Z-axis only runs for less than 1% of any given print.
+-X, Y, Z axis all move and endstops work
+-Z axis needed 0.3amp to run reliably and not skip steps, however, would overheat to +50C in 30 seconds of running. Current solution has been to diable stepper whenever it is not moving (and due to the lead screw the axis wont fall) this has stopped overheating, as the Z-axis only runs for less than 1% of any given print.
 -Peltier module works for the bed works and heats up reliably
 
 Issues/Untested:
