@@ -19,3 +19,14 @@ Current updates:
 New Board layout below:
 Old SKR board on the left (raspberry pi and 5v supply fit overtop of the board), Micro4 Fly board on the bottom right (even with the pi above and 5v supply they are combined smaller)
 ![IMG_3378](https://github.com/user-attachments/assets/719a5bcc-975b-4a67-8148-b453d1f82efc)
+
+
+
+Software Proofs:
+-Pi zero runs klipper-mainsail without issue.
+-X, Y , Z axis all move and endstops work
+-Z axis needed 0.3amp to run reliably and not skip steps, however, would overheat to +50C in 30 seconds of running. Current solution has been to diable stepper whenever it is not moving (and due to the lead screw it wont move) this has stopped overheating, as the Z-axis only runs for less than 1% of any given print.
+
+Issues/Untested:
+-SSD1306 screen not tested
+
