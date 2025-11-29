@@ -13,8 +13,7 @@ Design goals:
 -An additional goal is for this printer to be able to achieve the same speed/accel of a default ender 3 (500mm/s2 at 50mm/s).  
 -The entire printer (excluding filament and power supply) needs to fit into the 3x4x5 inch Vaultz lockbox I have (see image).
 
-Current updates: 
--The release of the new Micro4 fly board by Mellow has led to a full rebuild of the printer. This is due to the major space savings from the new board. With the older SKR board, the printer was very close to not fitting in the vaultz box (actually tearing some of the fabric, and being hard to close due to the tight fit). But with the new board the printer could easily be up to 5mm shorter, and 10mm thinner. This will hopefully give a lot more comfortable fit and potentially even allow the addition of a small power supply or filament roll to fit in the box with the printer. 
+MAJOR update: The release of the new Micro4 fly board by Mellow has led to a full rebuild of the printer. This is due to the major space savings from the new board. With the older SKR board, the printer was very close to not fitting in the vaultz box (actually tearing some of the fabric, and being hard to close due to the tight fit). But with the new board the printer could easily be up to 5mm shorter, and 10mm thinner. This will hopefully give a lot more comfortable fit and potentially even allow the addition of a small power supply or filament roll to fit in the box with the printer. 
 
 New Board layout below:
 Old SKR board on the left (raspberry pi and 5v supply fit overtop of the board), Micro4 Fly board on the bottom right (even with the pi above and 5v supply they are combined smaller)  
