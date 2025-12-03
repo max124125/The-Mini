@@ -25,7 +25,7 @@ Testing Proofs (with Micro4 setup):
 -Pi zero runs klipper-mainsail without issue.  
 -X, Y, Z axis all move and endstops work  
 -Z axis needed 0.3amp to run reliably and not skip steps, however, would overheat to +50C in 30 seconds of running. Current solution has been to disable stepper whenever it is not moving (and due to the low pitch lead screw the axis does not fall) this has stopped overheating, as the Z-axis now only runs for less than 1% of any given print.  
--Peltier module works for the bed works and heats up reliably  
+-Peltier module works for the bed and heats up reliably  
 -SSD1306 works with pi as MCU
 -5v power supply works and runs the pi without issue
 
