@@ -15,10 +15,9 @@ Design goals:
 
 MAJOR update: The release of the new Micro4 fly board by Mellow has led to a full rebuild of the printer. This is due to the major space savings from the new board. With the older SKR board, the printer was very close to not fitting in the vaultz box (actually tearing some of the fabric, and being hard to close due to the tight fit). But with the new board the printer could easily be up to 5mm shorter, and 10mm thinner. This will hopefully give a lot more comfortable fit and potentially even allow the addition of a small power supply or filament roll to fit in the box with the printer. 
 
-New Board layout below:
-Old SKR board on the left (raspberry pi and 5v supply fit overtop of the board), Micro4 Fly board on the bottom right (even with the pi above and 5v supply they are combined smaller)  
+Old Board layout Left side: SKR board attached as shown and raspberry pi and 5v supply fit overtop of the board mounted facing down to minimize room.
+New Board layour Right side: With the much smaller Micro4 Fly board, the raspberry pi and 5v supply can all fit on the same plane, this shrinks the whole design signifigantly, and will make wiring much cleaner.
  <img src="https://github.com/user-attachments/assets/719a5bcc-975b-4a67-8148-b453d1f82efc" width="347"/>
-  
 
   
 
