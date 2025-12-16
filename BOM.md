@@ -20,9 +20,9 @@ Hotend:
 - Generic X1C/P1P hotend assembly (https://www.aliexpress.com/item/1005009245224808.html?spm=a2g0o.tesla.0.0.304dmg3xmg3xMA&pdp_npi=6%40dis%21CAD%21C%2438.87%21C%2421.38%21%21%21%21%21%402101d6fe17659056123164381ee965%2112000048456269254%21btfpre%21%21%21%211%210%21&afTraceInfo=1005009245224808__pc__c_ppc_item_bridge_pc_main__qI8bIpC__1765905612394)
 
 
-  Frame:
-   - All main parts 3D printed out of orange and black PETG.
-   - M2 heat set inserts [x20]
-   - M3 heat set inserts [x12]
-   - 
+Frame:  
+- All main parts 3D printed out of orange and black PETG.
+- M2 heat set inserts [x20]
+- M3 heat set inserts [x12]
+- Other Fastners 
   
