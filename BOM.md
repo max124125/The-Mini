@@ -3,10 +3,10 @@ BOM:
 If item amount is not listed, it is only 1, otherwise it will be specified i.e. [x2]
 
 Electronics:
-  -Raspberry Pi Zero
-  -Mellow Fly 4 (https://mellow.klipper.cn/en/docs/ProductDoc/MainBoard/fly-micro/fly-micro4/)
-  -SSD1306 
-  -Rotary Encoder
+- Raspberry Pi Zero  
+- Mellow Fly 4 (https://mellow.klipper.cn/en/docs/ProductDoc/MainBoard/fly-micro/fly-micro4/)  
+- SSD1306   
+- Rotary Encoder  
 
 Motion Systems: 
   - Generic Nema 9's [x2] (https://www.aliexpress.com/w/wholesale-nema-11.html?spm=a2g0o.productlist.search.0)
