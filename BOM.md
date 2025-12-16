@@ -10,7 +10,7 @@ Electronics:
 
 Motion Systems: 
   - Generic Nema 9's [x2] (https://www.aliexpress.com/w/wholesale-nema-11.html?spm=a2g0o.productlist.search.0)
-  - Generic Nema 17 Stepper motor ( )
+  - Generic Nema 17 Stepper motor (https://www.aliexpress.com/w/wholesale-nema-17.html?spm=a2g0o.detail.search.0)
   - Endstop switch [x3] (https://www.aliexpress.com/w/wholesale-endstop-switch.html?spm=a2g0o.productlist.auto_suggest.1.7446imzRimzROs)
   - Gt2 16 teeth Idler Pulley [x2]
   - Mgn7C by 75mm linear rail (https://www.aliexpress.com/w/wholesale-MGN7H-linear-rail.html?spm=a2g0o.detail.search.0)
