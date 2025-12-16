@@ -31,6 +31,6 @@ Testing Proofs (with Micro4 setup):
 
 Issues/Untested:  
 -Encoder Not tested  
--Hotend not tested (but will work)  
--Extruder not tested
+-Extruder tolerance issues
+
 
